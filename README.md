@@ -1,1 +1,2 @@
-# bouce-off
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
